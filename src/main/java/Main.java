@@ -66,19 +66,8 @@ public class Main {
                 }
 
             }
-
+        // Output
         System.out.println(answerText);
 
         }
     }
-
-
-
-
-
-
-
-
-
-
-
